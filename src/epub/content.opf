@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Running a Thousand Miles for Freedom</dc:title>
 		<meta property="file-as" refines="#title">Running a Thousand Miles for Freedom</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">The Escape of William and Ellen Craft from Slavery</dc:title>
+		<meta property="file-as" refines="#subtitle">Escape of William and Ellen Craft from Slavery, The</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Running a Thousand Miles for Freedom: The Escape of William and Ellen Craft from Slavery</dc:title>
+		<meta property="file-as" refines="#fulltitle">Running a Thousand Miles for Freedom</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Fugitive slaves -- United States -- Biography</dc:subject>
 		<dc:subject id="subject-2">Craft, William</dc:subject>
 		<dc:subject id="subject-3">Craft, Ellen</dc:subject>
@@ -43,14 +50,18 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh88005030</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Autobiography</meta>
+		<meta property="se:subject">Memoir</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<dc:description id="description">Ellen and William Craft escape from slavery by posing as a slaveowner and his slave.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p><a href="https://standardebooks.org/ebooks/ellen-craft">Ellen Craft</a>, the child of her enslaver, poses as the owner of her husband William as they make their way north to freedom. They meet and overcome many obstacles and dangers before they reach Philadelphia. Once there, despite help from many, they find that prejudice continues to block the freedom they crave. As they make their way to their final destination in England, they continue to face racism and societal challenges throughout their journey.</p>
+			<p>Originally published in 1860 in England, this brief memoir is a frank depiction of the fears and dangers enslaved people faced when they decided to runaway to assert their freedom. It uses language of the day throughout (including the “n” word) reflecting the prejudice and attitudes toward African Americans, free or enslaved. Enlightening but harrowing.</p>
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/585</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/17c3bd38-e38e-4280-adc3-e4c06e61bef0/page/n1/mode/2up</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -58,28 +69,25 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ellen-craft_william-craft_running-a-thousand-miles-for-freedom</meta>
 		<dc:creator id="author-1">Ellen Craft</dc:creator>
 		<meta property="file-as" refines="#author-1">Craft, Ellen</meta>
-		<meta property="se:name.person.full-name" refines="#author-1">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Ellen_Craft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n50019161.html</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">William Craft</dc:creator>
 		<meta property="file-as" refines="#author-2">Craft, William</meta>
-		<meta property="se:name.person.full-name" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/William_Craft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ellen_and_William_Craft</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">https://id.loc.gov/authorities/names/n50019156.html</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Richard Ansdell</dc:contributor>
+		<meta property="file-as" refines="#artist">Ansdell, Richard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Ansdell</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2007154937.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Howard G. Cornett</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cornett, Howard G.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://myreadinglife.com/about/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -109,8 +117,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="preface.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="part-1.xhtml"/>
 		<itemref idref="part-2.xhtml"/>
