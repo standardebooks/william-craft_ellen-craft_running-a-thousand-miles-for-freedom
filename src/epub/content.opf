@@ -56,12 +56,12 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">Ellen and William Craft escape from slavery by posing as a slaveowner and his slave.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p><a href="https://standardebooks.org/ebooks/ellen-craft">Ellen Craft</a>, the child of her enslaver, poses as the owner of her husband William as they make their way north to freedom. They meet and overcome many obstacles and dangers before they reach Philadelphia. Once there, despite help from many, they find that prejudice continues to block the freedom they crave. As they make their way to their final destination in England, they continue to face racism and societal challenges throughout their journey.</p>
-			<p>Originally published in 1860 in England, this brief memoir is a frank depiction of the fears and dangers enslaved people faced when they decided to runaway to assert their freedom. It uses language of the day throughout (including the “n” word) reflecting the prejudice and attitudes toward African Americans, free or enslaved. Enlightening but harrowing.</p>
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ellen-craft"&gt;Ellen Craft&lt;/a&gt;, the child of her enslaver, poses as the owner of her husband William as they make their way north to freedom. They meet and overcome many obstacles and dangers before they reach Philadelphia. Once there, despite help from many, they find that prejudice continues to block the freedom they crave. As they make their way to their final destination in England, they continue to face racism and societal challenges throughout their journey.&lt;/p&gt;
+			&lt;p&gt;Originally published in 1860 in England, this brief memoir is a frank depiction of the fears and dangers enslaved people faced when they decided to runaway to assert their freedom. It uses language of the day throughout (including the “n” word) reflecting the prejudice and attitudes toward African Americans, free or enslaved. Enlightening but harrowing.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/585</dc:source>
-		<dc:source>https://archive.org/details/17c3bd38-e38e-4280-adc3-e4c06e61bef0/page/n1/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/17c3bd38-e38e-4280-adc3-e4c06e61bef0</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -70,17 +70,17 @@
 		<dc:creator id="author-1">Ellen Craft</dc:creator>
 		<meta property="file-as" refines="#author-1">Craft, Ellen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Ellen_Craft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n50019161.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n50019161</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">William Craft</dc:creator>
 		<meta property="file-as" refines="#author-2">Craft, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ellen_and_William_Craft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">https://id.loc.gov/authorities/names/n50019156.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50019156</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Richard Ansdell</dc:contributor>
 		<meta property="file-as" refines="#artist">Ansdell, Richard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Ansdell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2007154937.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2007154937</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
@@ -105,7 +105,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
@@ -119,7 +119,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="part-1.xhtml"/>
 		<itemref idref="part-2.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
