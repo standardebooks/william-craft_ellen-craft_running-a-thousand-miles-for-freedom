@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ellen-craft_william-craft/running-a-thousand-miles-for-freedom</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -62,20 +62,19 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/585</dc:source>
 		<dc:source>https://archive.org/details/17c3bd38-e38e-4280-adc3-e4c06e61bef0</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Running_a_Thousand_Miles_for_Freedom</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/ellen-craft_william-craft_running-a-thousand-miles-for-freedom</meta>
-		<dc:creator id="author-1">Ellen Craft</dc:creator>
-		<meta property="file-as" refines="#author-1">Craft, Ellen</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Ellen_Craft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n50019161</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-craft_ellen-craft_running-a-thousand-miles-for-freedom</meta>
+		<dc:creator id="author-1">William Craft</dc:creator>
+		<meta property="file-as" refines="#author-1">Craft, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Ellen_and_William_Craft</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n50019156</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
-		<dc:creator id="author-2">William Craft</dc:creator>
-		<meta property="file-as" refines="#author-2">Craft, William</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ellen_and_William_Craft</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50019156</meta>
+		<dc:creator id="author-2">Ellen Craft</dc:creator>
+		<meta property="file-as" refines="#author-2">Craft, Ellen</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ellen_Craft</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50019161</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Richard Ansdell</dc:contributor>
 		<meta property="file-as" refines="#artist">Ansdell, Richard</meta>
