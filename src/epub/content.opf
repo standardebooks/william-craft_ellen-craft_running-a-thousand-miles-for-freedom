@@ -71,6 +71,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Ellen_and_William_Craft</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n50019156</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
 		<dc:creator id="author-2">Ellen Craft</dc:creator>
 		<meta property="file-as" refines="#author-2">Craft, Ellen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Ellen_Craft</meta>
@@ -116,8 +118,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
+		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="part-1.xhtml"/>
 		<itemref idref="part-2.xhtml"/>
