@@ -60,8 +60,8 @@ section[epub|type~="epigraph"] > *{
 
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:letter"] header + p{
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 footer{
