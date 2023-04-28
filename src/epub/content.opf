@@ -56,7 +56,7 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">The authors escape from slavery by posing as a slaveowner and his slave.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ellen-craft"&gt;Ellen Craft&lt;/a&gt;, the child of her enslaver, poses as the owner of her husband William as they make their way north to freedom. They meet and overcome many obstacles and dangers before they reach Philadelphia. Once there, despite help from many, they find that prejudice continues to block the freedom they crave. As they make their way to their final destination in England, they continue to face racism and societal challenges.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ellen-craft"&gt;Ellen Craft&lt;/a&gt;, the child of her enslaver, poses as the owner of her husband &lt;a href="https://standardebooks.org/ebooks/william-craft"&gt;William&lt;/a&gt; as they make their way north to freedom. They meet and overcome many obstacles and dangers before they reach Philadelphia. Once there, despite help from many, they find that prejudice continues to block the freedom they crave. As they make their way to their final destination in England, they continue to face racism and societal challenges.&lt;/p&gt;
 			&lt;p&gt;Originally published in 1860 in England, this brief memoir is a frank depiction of the fears and dangers enslaved people faced when they decided to run away and assert their freedom.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
