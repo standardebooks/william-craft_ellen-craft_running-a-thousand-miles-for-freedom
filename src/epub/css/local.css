@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-header{
+blockquote header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
 }
@@ -23,6 +23,21 @@ header [epub|type~="epigraph"] cite{
 	margin-top: 1em;
 }
 /* End all epigraphs */
+
+/* Epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
 
 /* Full-page epigraphs */
 section[epub|type~="epigraph"]{
