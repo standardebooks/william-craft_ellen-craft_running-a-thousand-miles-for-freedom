@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 620">
-	<title>The titlepage for the Standard Ebooks edition of Running a Thousand Miles for Freedom, by Ellen Craft and William Craft</title>
+	<title>The titlepage for the Standard Ebooks edition of Running a Thousand Miles for Freedom, by William Craft and Ellen Craft</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -19,6 +19,6 @@
 	<text class="title" x="700" y="130">RUNNING</text>
 	<text class="title" x="700" y="230">A THOUSAND</text>
 	<text class="title" x="700" y="330">MILES FOR FREEDOM</text>
-	<text class="author" x="700" y="490">ELLEN CRAFT</text>
-	<text class="author" x="700" y="570">WILLIAM CRAFT</text>
+	<text class="author" x="700" y="490">WILLIAM CRAFT</text>
+	<text class="author" x="700" y="570">ELLEN CRAFT</text>
 </svg>

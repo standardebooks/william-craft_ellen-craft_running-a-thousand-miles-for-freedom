@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of Running a Thousand Miles for Freedom, by Ellen Craft and William Craft</title>
+	<title>The cover for the Standard Ebooks edition of Running a Thousand Miles for Freedom, by William Craft and Ellen Craft</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -25,6 +25,6 @@
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
 	<text class="title-small" x="700" y="1755">RUNNING A THOUSAND</text>
 	<text class="title-small" x="700" y="1835">MILES FOR FREEDOM</text>
-	<text class="author" x="700" y="1935">ELLEN CRAFT</text>
-	<text class="author" x="700" y="1995">WILLIAM CRAFT</text>
+	<text class="author" x="700" y="1935">WILLIAM CRAFT</text>
+	<text class="author" x="700" y="1995">ELLEN CRAFT</text>
 </svg>
