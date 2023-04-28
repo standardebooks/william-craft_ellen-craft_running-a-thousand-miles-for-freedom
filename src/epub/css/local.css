@@ -73,10 +73,6 @@ footer{
 	font-variant: small-caps;
 }
 
-p > cite{
-	text-align: right;
-}
-
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
