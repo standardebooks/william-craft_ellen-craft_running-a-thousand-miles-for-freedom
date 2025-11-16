@@ -65,7 +65,7 @@
 		<dc:source>https://archive.org/details/17c3bd38-e38e-4280-adc3-e4c06e61bef0</dc:source>
 		<meta property="se:word-count">25217</meta>
 		<meta property="se:reading-ease.flesch">63.12</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Running_a_Thousand_Miles_for_Freedom</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ellen_and_William_Craft#Running_a_Thousand_Miles_for_Freedom</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-craft_ellen-craft_running-a-thousand-miles-for-freedom</meta>
 		<dc:creator id="author-1">William Craft</dc:creator>
 		<meta property="file-as" refines="#author-1">Craft, William</meta>
