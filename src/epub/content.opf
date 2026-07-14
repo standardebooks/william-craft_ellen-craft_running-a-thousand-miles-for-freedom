@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Running a Thousand Miles for Freedom: The Escape of William and Ellen Craft from Slavery</dc:title>
 		<meta property="file-as" refines="#fulltitle">Running a Thousand Miles for Freedom</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fugitive slaves -- United States -- Biography</dc:subject>
 		<dc:subject id="subject-2">Craft, William</dc:subject>
 		<dc:subject id="subject-3">Craft, Ellen</dc:subject>
