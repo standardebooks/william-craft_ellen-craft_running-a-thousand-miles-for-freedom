@@ -37,10 +37,10 @@
 		<dc:title id="fulltitle">Running a Thousand Miles for Freedom: The Escape of William and Ellen Craft from Slavery</dc:title>
 		<meta property="file-as" refines="#fulltitle">Running a Thousand Miles for Freedom</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Fugitive slaves -- United States -- Biography</dc:subject>
+		<dc:subject id="subject-1">Fugitive slaves--United States--Biography</dc:subject>
 		<dc:subject id="subject-2">Craft, William</dc:subject>
 		<dc:subject id="subject-3">Craft, Ellen</dc:subject>
-		<dc:subject id="subject-4">Slaves -- Georgia -- Biography</dc:subject>
+		<dc:subject id="subject-4">Slaves--Georgia--Biography</dc:subject>
 		<dc:subject id="subject-5">Slaves' writings, American</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008121315</meta>
